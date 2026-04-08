@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Paul Monter</h1>
-<h3 align="center">Currently a Computer Science Student in Technological University of the Philippines - Manila and an aspiring Software Engineer.</h3>
+<h3 align="center">A Computer Science Graduate in Technological University of the Philippines - Manila and an aspiring Software Engineer.</h3>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
